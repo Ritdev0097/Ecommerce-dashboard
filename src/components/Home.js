@@ -1,3 +1,5 @@
+// json-server --watch products.json --port 3002 (To run json server)
+
 import { useState, useEffect } from "react";
 import Header from './Header';
 import Table from 'react-bootstrap/Table';
