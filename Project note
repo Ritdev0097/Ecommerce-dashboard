@@ -1,0 +1,9 @@
+step -1 Download products.json file,
+
+step -2 install json-server on your node.js terminal,
+
+step -3 json-server --watch products.json --port 3002  (run this command on your terminal), and
+
+step -4 https://ecommerce-dashboard01.netlify.app/
+
+This link helps you to see this project live
