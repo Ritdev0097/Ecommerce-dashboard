@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "7b37",
+      "productname": "Colour Set",
+      "seller": "Rajesh",
+      "price": "1200",
+      "state": "Kerela",
+      "description": "This is very beautiful colour set"
+    },
+    {
+      "id": "66a6",
+      "productname": "Computer Mouse",
+      "seller": "Prakash",
+      "price": "450",
+      "state": "Rajasthan",
+      "description": "Best quality product and easy to return."
+    },
+    {
+      "productname": "Running Shoes",
+      "seller": "Mohan",
+      "price": "1500",
+      "state": "Uttarakhand",
+      "description": "Very bad shoes ever",
+      "id": "a8ea"
+    },
+    {
+      "id": "ee17",
+      "productname": "Face Wash",
+      "seller": "Mohit",
+      "price": "750",
+      "state": "Bihar",
+      "description": "This is very best face wash"
+    },
+    {
+      "id": "4b83",
+      "productname": "Pencil set",
+      "seller": "Nitika",
+      "price": "320",
+      "state": "Haryana",
+      "description": "Best for handwriting and skeching"
+    },
+    {
+      "id": "e94f",
+      "productname": "Cricket Bat",
+      "seller": "Mahendar",
+      "price": "2000",
+      "state": "Himachal",
+      "description": "This is very good cricket bat"
+    },
+    {
+      "id": "d2a3",
+      "productname": "Headphone",
+      "seller": "Dinesh",
+      "price": "3000",
+      "state": "Delhi",
+      "description": "Very good for music"
+    },
+    {
+      "id": "9e28",
+      "productname": "Basket Ball",
+      "seller": "Prakash",
+      "price": "750",
+      "state": "Jharkhand",
+      "description": "Best Basket Ball "
+    },
+    {
+      "id": "5b62",
+      "productname": "Tennis bat",
+      "seller": "Virendra",
+      "price": "850",
+      "state": "Uttarakhand",
+      "description": "Very good for sports "
+    },
+    {
+      "id": "c50a",
+      "productname": "Chess ",
+      "seller": "Rajan",
+      "price": "760",
+      "state": "Uttarakhand",
+      "description": "Best mind strategic game"
+    },
+    {
+      "productname": "Laptop",
+      "seller": "Kiran",
+      "price": "30000",
+      "state": "Uttar Pradesh",
+      "description": "This is a laptop, this is in good condition",
+      "id": "943d"
+    }
+  ]
+}
